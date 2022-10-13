@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #202020;
+}
+
+
+
+.navbartext p:after {
+    content: 'DarknessNetwork';
+}
+  
+@media (max-width: 395px) {
+    .navbartext p:after {
+        content: 'Darkness Network';
+    }
+}
+
+
+
+.titletext p:after {
+    content: 'DarknessNetwork';
+}
+  
+@media (max-width: 652px) {
+    .titletext p:after {
+        content: 'Darkness Network';
+    }
+}
