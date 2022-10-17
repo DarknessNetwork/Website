@@ -1,4 +1,5 @@
-[![Logo Image](https://cdn.discordapp.com/attachments/875761961521000451/1031513384492990495/photo.png)](https://darknessnetwork.com/)
+[![Logo Image](https://darknessnetwork.com/images/preview.png)](https://darknessnetwork.com/)
+
 
 # DarknessNetwork.com (Main Site)
 The main site files for darknessnetwork.com
