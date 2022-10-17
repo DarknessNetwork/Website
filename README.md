@@ -4,7 +4,7 @@
 The main site files for darknessnetwork.com
 
 ## Links
-* [Site](http://www.darknessnetwork.com)
+* [Site](https://darknessnetwork.com)
 * [Telegram](https://t.me/darknessnetworks)
 * [GitHub](https://github.com/DarknessNetwork)
 * [Discord](https://discord.gg/z2pTjrpw6p)
@@ -12,9 +12,9 @@ The main site files for darknessnetwork.com
 ### Build commands
 
 ```bash
-# tailwind cli update only ones
+# TailWind CLI update only ones
 $ npm run build
 
-# tailwind cli update all the time
+# tailwind CLI update all the time (while command line active)
 $ npm run start
 ```
