@@ -8,6 +8,18 @@ body {
 
 
 
+.element-transition {
+    opacity: 0;
+    transform: translateY(5px);
+}
+  
+.element-transition.element-show {
+    opacity: 1;
+    transform: translateY(0%);
+}
+
+
+
 .navbartext p:after {
     content: 'DarknessNetwork';
 }
